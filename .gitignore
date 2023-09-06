@@ -258,3 +258,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#Python vevn
+assignment1/assignment1env/
