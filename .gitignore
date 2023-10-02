@@ -262,3 +262,10 @@ $RECYCLE.BIN/
 #Python vevn
 assignment1/assignment1env/
 assignment2/assignment2/
+assignment3/assignment3/
+
+# Data
+assignment3/Data/
+Data.zip
+assignment3/Solution.ipynb
+assignment3/test.py
