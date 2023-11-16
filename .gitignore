@@ -266,6 +266,7 @@ assignment3/assignment3/
 assignment4/assignment4/
 assignment5/assignment5/
 assignment6/assignment6/
+group-project/groupProject
 
 # Data
 assignment3/data/
@@ -273,5 +274,23 @@ Data.zip
 assignment3/Solution.ipynb
 assignment3/test.py
 group-project/owid-energy.csv.zip
+group-project/owid-energy-data.csv
+group-project/owid-energy.csv
+group-project/archive
+group-project/archive.zip
 assignment6/XSound.npy
 assignment6/YSound.npy
+
+
+#Tensorman files
+assignment6/.config
+assignment6/.gnupg
+assignment6/.ipython
+assignment6/.jupyter
+assignment6/.keras
+assignment6/.local
+assignment6/.nv
+assignment6/.vscode-server-insiders
+assignment6/speech_commands_v0.02
+assignment6/speech_commands_v0.02.tar.gz
+assignment6/.bash_history
